@@ -1,5 +1,5 @@
 # Real Time Bus Tracker MBTA
-Portfolio Ready | MIT Full Stack Course Week 9
+#### Portfolio Ready | MIT Full Stack Course Week 9
 
 #### Description:
 This is a bus tracker that shows the location, in real-time, of busses traveling north or south along the MBTA's (Massachessetts Bay Transportation Authority) Route 1 which travels between Harvard and MIT's campuses. This app was created using HTML, CSS, Javascript, Google Fonts, an API Key for Google Maps and an open API from the MBTA.
