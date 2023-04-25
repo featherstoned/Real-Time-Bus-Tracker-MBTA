@@ -1,4 +1,4 @@
-# Real-Time-Bus-Tracker-MBTA
+# Real Time Bus Tracker MBTA
 Portfolio Ready | MIT Full Stack Course Week 9
 
 #### Description:
